@@ -260,9 +260,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        accounts.add(new BankAccount("ACC1001", "Ali", 150000));
-        accounts.add(new BankAccount("ACC1002", "Sara", 220000));
-        accountCounter = 1003;
 
         task6PhysicalArray();
 
